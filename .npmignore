@@ -1,0 +1,37 @@
+# Source files (users get built version)
+src/
+tsconfig.json
+.eslintrc.js
+.prettierrc.js
+
+# Documentation (available on GitHub)
+docs/
+CONTRIBUTING.md
+CHANGELOG.md
+
+# Example
+example/
+
+# CI/CD
+.github/
+
+# Development files
+.gitignore
+.npmignore
+*.log
+*.tgz
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+.DS_Store
+
+# Testing
+coverage/
+__tests__/
+*.test.ts
+*.test.tsx
+
+# Build artifacts that shouldn't be published
+*.tsbuildinfo
